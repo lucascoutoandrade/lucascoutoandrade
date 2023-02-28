@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 
 <H3>Articles and Contact:<br><br>
   
-<a href="www.google.com">
-<img height="31em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/lucas-andrade-ctfl-at-a1503165">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
  
 <img height="31em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
