@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: lucascouto.ads@gmail.com
+📫 How to reach out me: lucascouto.ads@gmail.com
 
 <!--
 <div>
